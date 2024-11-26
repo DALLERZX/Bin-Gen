@@ -1,2 +1,6 @@
+### GENERADOR DE BINES
+### CREADO POR DALLER 
+
+# BIENVENIDO GRACIAS POR APOYAR EL PROYECTO 
 # Bin-Gen
 Scrip generador de bines
